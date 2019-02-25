@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Copyright 2010-present Facebook.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-->
+
+<resources>
+    <string name="copy_right">Copyright © 2018 Facebook. All rights reserved.</string>
+    <string name="app_name">Ad Units Sample</string>
+    <string name="select_sample">Select an option</string>
+    <string name="debug_settings">Debug Settings</string>
+    <string name="loading_status">Requesting an ad…</string>
+    <string name="load_interstitial">Load Interstitial</string>
+    <string name="refresh_now">Refresh Now</string>
+    <string name="show_ad">Show!</string>
+    <string name="load_instream_video">Load Video</string>
+    <string name="destroy_ad">Destroy Ad</string>
+    <string name="load_rewarded_video">Load Rewarded Video</string>
+
+    <!-- Native samples -->
+    <string name="load_native_ad">Load Native Ad</string>
+    <string name="load_other_native_ads">Check out more Native Ads examples in </string>
+    <string name="load_native_ads_recycler">RecyclerView</string>
+
+    <string name="ad_loading">Loading an ad…</string>
+    <string name="ad_loaded">Ad loaded</string>
+    <string name="ad_load_failed">Ad failed to load: %s</string>
+    <string name="ad_clicked">Ad clicked</string>
+
+    <string name="style">Style</string>
+    <string name="adview_type">Height</string>
+    <string name="show_code">Show Code</string>
+
+    <string-array name="background_color_array">
+        <item>White</item>
+        <item>Black</item>
+    </string-array>
+
+    <string-array name="ad_bannerview_type_array">
+        <item>50 DP</item>
+        <item>100 DP</item>
+        <item>120 DP</item>
+    </string-array>
+</resources>
